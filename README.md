@@ -13,11 +13,11 @@
 
 ### Canada
 
-- Jan 10-11: [Microsoft Ignite Toronto](https://www.microsoft.com/en-ca/ignite-the-tour/toronto)
+- Jan 10-11: [Microsoft Ignite on tour: Toronto](https://www.microsoft.com/en-ca/ignite-the-tour/toronto)
 
 ### Mexico
 
-- Apr 10-11: [Microsoft Ignite Mexico City](https://www.microsoft.com/es-mx/ignite-the-tour/mexico-city)
+- Apr 10-11: [Microsoft Ignite on tour: Mexico City](https://www.microsoft.com/es-mx/ignite-the-tour/mexico-city)
 
 ### United States
 
@@ -31,6 +31,7 @@
 - Apr 29: [OpenStack](https://www.openstack.org/summit/denver-2019/)
 - May 6-8: [CIO Cloud Summit](https://ciocloudsummit.com/)
 - Aug 21-23: [Open Source Summit North America](https://events.linuxfoundation.org/upcoming-events/)
+- Nov 4-8: [Microsoft Ignite](https://msignite.eventcore.com/auth/login)
 - Nov 18-21: [KubeCon + Cloud Native Con North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
 - Dec 2-6: [AWS re:Invent](https://reinvent.awsevents.com/)
 
@@ -42,11 +43,11 @@
 
 ### Italy
 
-- Jan 31 - Feb 1: [Microsoft Ignite Milan](https://www.microsoft.com/it-it/ignite-the-tour/milan)
+- Jan 31 - Feb 1: [Microsoft Ignite on tour: Milan](https://www.microsoft.com/it-it/ignite-the-tour/milan)
 
 ### Netherlands
 
-- Mar 20-21: [Microsoft Ignite Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam)
+- Mar 20-21: [Microsoft Ignite on tour: Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam)
 - Mar 29: [ServerlessDays Amsterdam](https://serverlessdays.amsterdam/)
 
 ### Spain
@@ -55,7 +56,7 @@
 
 ### Sweden
 
-- Apr 24-25: [Microsoft Ignite Stockholm](https://www.microsoft.com/sv-se/ignite-the-tour/stockholm)
+- Apr 24-25: [Microsoft Ignite on tour: Stockholm](https://www.microsoft.com/sv-se/ignite-the-tour/stockholm)
 
 ### Switzerland
 
@@ -65,13 +66,13 @@
 
 - Jan 16-17: [Oracle OpenWorld Europe: London](https://www.oracle.com/uk/openworld/)
 - Jan 30: [ServerlessDays Cardiff](https://cardiff.serverlessdays.io/)
-- Feb 26-27: [Microsoft Ignite London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
+- Feb 26-27: [Microsoft Ignite on tour: London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
 
 ## Asia
 
 ### China
 
-- Feb 20-21: [Microsoft Ignite Hong Kong](https://www.microsoft.com/en-hk/ignite-the-tour/hong-kong)
+- Feb 20-21: [Microsoft Ignite on tour: Hong Kong](https://www.microsoft.com/en-hk/ignite-the-tour/hong-kong)
 - Jun 25-26: [KubeCon + Cloud Native Con China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2019/)
 
 ### India
@@ -80,7 +81,7 @@
 
 ### Israel
 
-- Jan 22-23: [Microsoft Ignite Tel Aviv](https://www.microsoft.com/he-il/ignite-the-tour/tel-aviv)
+- Jan 22-23: [Microsoft Ignite on tour: Tel Aviv](https://www.microsoft.com/he-il/ignite-the-tour/tel-aviv)
 
 ### Japan
 
@@ -88,24 +89,24 @@
 
 ### Korea
 
-- Apr 3-4: [Microsoft Ignite Seoul](https://www.microsoft.com/ko-kr/ignite-the-tour/seoul)
+- Apr 3-4: [Microsoft Ignite on tour: Seoul](https://www.microsoft.com/ko-kr/ignite-the-tour/seoul)
 
 ### Singapore
 
-- Han 16-17 [Microsoft Ignite Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore)
+- Han 16-17 [Microsoft Ignite on tour: Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore)
 - March 26-27: [Oracle OpenWorld Asia: Singapore](https://www.oracle.com/sg/openworld/)
 
 ### United Arab Emirates
 
 - Feb 11-12: [Oracle OpenWorld Middle East: Dubai](https://www.oracle.com/middleeast/openworld/)
-- Mar 27-28: [Microsoft Ignite Dubai](https://www.microsoft.com/ar-ae/ignite-the-tour/dubai)
+- Mar 27-28: [Microsoft Ignite on tour: Dubai](https://www.microsoft.com/ar-ae/ignite-the-tour/dubai)
 
 ## Australia
 
-- Feb 13-14: [Microsoft Ignite Sydney](https://www.microsoft.com/en-au/ignite-the-tour/sydney)
+- Feb 13-14: [Microsoft Ignite on tour: Sydney](https://www.microsoft.com/en-au/ignite-the-tour/sydney)
 
 ## Africa
 
 ### South Africa
 
-- Jan 28-29: [Microsoft Ignite Johannesburg](https://www.microsoft.com/en-za/ignite-the-tour/johannesburg)
+- Jan 28-29: [Microsoft Ignite on tour: Johannesburg](https://www.microsoft.com/en-za/ignite-the-tour/johannesburg)
