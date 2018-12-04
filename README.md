@@ -75,6 +75,7 @@
 - Jan 16-17: [Oracle OpenWorld Europe: London](https://www.oracle.com/uk/openworld/)
 - Jan 30: [ServerlessDays Cardiff](https://cardiff.serverlessdays.io/)
 - Feb 26-27: [Microsoft Ignite on tour: London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
+- Mar 4-7: [QCon London](https://qconlondon.com/)
 
 ## Asia
 
