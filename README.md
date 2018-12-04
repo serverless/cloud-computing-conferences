@@ -15,6 +15,7 @@
 - Feb 22: [ServerlessDays Austin](https://atx.serverlessdays.io/)
 - Feb 27: [ServerlessDays Los Angeles](https://serverlessdays.la/)
 - Mar 12: [ServerlessDays Boston](https://boston.serverlessdays.io/)
+- Apr 9-11: [Google Cloud Next](https://cloud.google.com/)
 - Dec 2-6: [AWS re:Invent](https://reinvent.awsevents.com/)
 
 ## Europe
