@@ -33,4 +33,15 @@
 
 ### United Kingdom
 
+- Jan 16-17: [Oracle OpenWorld Europe: London](https://www.oracle.com/uk/openworld/)
 - Jan 30: [ServerlessDays Cardiff](https://cardiff.serverlessdays.io/)
+
+## Asia
+
+### Singapore
+
+- March 26-27: [Oracle OpenWorld Asia: Singapore](https://www.oracle.com/sg/openworld/)
+
+### United Arab Emirates
+
+- Feb 11-12: [Oracle OpenWorld Middle East: Dubai](https://www.oracle.com/middleeast/openworld/)
