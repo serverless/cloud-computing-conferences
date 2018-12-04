@@ -22,14 +22,18 @@
 ### United States
 
 - Feb 12-19: [IBM Think](https://www.ibm.com/events/think/)
+- Feb 20-24: [Developer Week](http://www.developerweek.com/)
 - Feb 22: [ServerlessDays Austin](https://atx.serverlessdays.io/)
 - Feb 27: [ServerlessDays Los Angeles](https://serverlessdays.la/)
 - Mar 11-13: [Ingram Micro Cloud Summit](https://www.channele2e.com/event/ingram-micro-cloud-summit-2019-conference-dates-location/)
 - Mar 12: [ServerlessDays Boston](https://boston.serverlessdays.io/)
 - Apr 9-11: [Google Cloud Next](https://cloud.google.com/)
 - Apr 28 - May 2: [Dell Technologies World](https://www.delltechnologiesworld.com/agenda.htm)
+- Apr 28 - May 2: [GOTO Chicago](https://gotochgo.com/)
 - Apr 29: [OpenStack](https://www.openstack.org/summit/denver-2019/)
 - May 6-8: [CIO Cloud Summit](https://ciocloudsummit.com/)
+- May 22-23: [GlueCon](http://gluecon.com/)
+- Jun 24-26: [QCon](https://qconnewyork.com/)
 - Aug 21-23: [Open Source Summit North America](https://events.linuxfoundation.org/upcoming-events/)
 - Nov 4-8: [Microsoft Ignite](https://msignite.eventcore.com/auth/login)
 - Nov 18-21: [KubeCon + Cloud Native Con North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
@@ -49,6 +53,10 @@
 
 - Mar 20-21: [Microsoft Ignite on tour: Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam)
 - Mar 29: [ServerlessDays Amsterdam](https://serverlessdays.amsterdam/)
+
+### Poland
+
+- Feb 21-22: [Lambda Days](http://www.lambdadays.org/lambdadays2019)
 
 ### Spain
 
