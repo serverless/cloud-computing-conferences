@@ -35,6 +35,7 @@
 - May 22-23: [GlueCon](http://gluecon.com/)
 - Jun 24-26: [QCon](https://qconnewyork.com/)
 - Aug 21-23: [Open Source Summit North America](https://events.linuxfoundation.org/upcoming-events/)
+- Oct 22-24: [HashiConf](https://www.hashiconf.com/) (San Francisco)
 - Nov 4-8: [Microsoft Ignite](https://msignite.eventcore.com/auth/login)
 - Nov 18-21: [KubeCon + Cloud Native Con North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
 - Dec 2-6: [AWS re:Invent](https://reinvent.awsevents.com/)
