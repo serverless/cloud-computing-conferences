@@ -21,24 +21,30 @@
 
 ### United States
 
-- Feb 12-19: [IBM Think](https://www.ibm.com/events/think/)
-- Feb 20-24: [Developer Week](http://www.developerweek.com/)
-- Feb 22: [ServerlessDays Austin](https://atx.serverlessdays.io/)
-- Feb 27: [ServerlessDays Los Angeles](https://serverlessdays.la/)
-- Mar 11-13: [Ingram Micro Cloud Summit](https://www.channele2e.com/event/ingram-micro-cloud-summit-2019-conference-dates-location/)
-- Mar 12: [ServerlessDays Boston](https://boston.serverlessdays.io/)
-- Apr 9-11: [Google Cloud Next](https://cloud.google.com/)
+- Feb 12-19: [IBM Think](https://www.ibm.com/events/think/) (San Francisco, CA)
+- Feb 20-24: [Developer Week](http://www.developerweek.com/) (Oakland, CA)
+- Feb 22: [ServerlessDays Austin](https://atx.serverlessdays.io/) (Austin, TX)
+- Feb 27: [ServerlessDays Los Angeles](https://serverlessdays.la/) (Los Angeles, CA)
+- Mar 11-13: [Ingram Micro Cloud Summit](https://www.channele2e.com/event/ingram-micro-cloud-summit-2019-conference-dates-location/) (San Diego, CA)
+- Mar 12: [ServerlessDays Boston](https://boston.serverlessdays.io/) (Boston, MA)
+- Apr 9-11: [Google Cloud Next](https://cloud.google.com/) (San Francisco, CA)
+- April 17-19: [Container World](https://tmt.knect365.com/container-world/) (Santa Clara, CA)
 - Apr 28 - May 2: [Dell Technologies World](https://www.delltechnologiesworld.com/agenda.htm)
-- Apr 28 - May 2: [GOTO Chicago](https://gotochgo.com/)
-- Apr 29: [OpenStack](https://www.openstack.org/summit/denver-2019/)
-- May 6-8: [CIO Cloud Summit](https://ciocloudsummit.com/)
-- May 22-23: [GlueCon](http://gluecon.com/)
-- Jun 24-26: [QCon](https://qconnewyork.com/)
-- Aug 21-23: [Open Source Summit North America](https://events.linuxfoundation.org/upcoming-events/)
-- Oct 22-24: [HashiConf](https://www.hashiconf.com/) (San Francisco)
-- Nov 4-8: [Microsoft Ignite](https://msignite.eventcore.com/auth/login)
-- Nov 18-21: [KubeCon + Cloud Native Con North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
-- Dec 2-6: [AWS re:Invent](https://reinvent.awsevents.com/)
+- Apr 28 - May 2: [GOTO Chicago](https://gotochgo.com/) (Chicago, IL)
+- Apr 29: [OpenStack](https://www.openstack.org/summit/denver-2019/) (Denver, CO)
+- April 29 - May 2: [DockerCon](DockerCon) (San Francisco, CA)
+- May 1-9: [PyCon US](https://us.pycon.org/2019/) (Cleveland, OH)
+- May 6-8: [CIO Cloud Summit](https://ciocloudsummit.com/) (Atlanta, GA)
+- May 22-23: [GlueCon](http://gluecon.com/) (Broomfield, CO)
+- June 10-13: [Fluent Conference](https://conferences.oreilly.com/fluent/fl-ca) (San Jose, CA)
+- Jun 24-26: [QCon](https://qconnewyork.com/) (New York, NY)
+- June 25-26: [CloudEXPO SV](http://www.cloudcomputingexpo.com/node/4324548)
+- August 6-7: [Signal](https://signal.twilio.com/) (San Francisco, CA)
+- Aug 21-23: [Open Source Summit North America](https://events.linuxfoundation.org/upcoming-events/) (Seattle, WA) 
+- Oct 22-24: [HashiConf](https://www.hashiconf.com/) (San Francisco, CA)
+- Nov 4-8: [Microsoft Ignite](https://msignite.eventcore.com/auth/login) (Orlando, FL)
+- Nov 18-21: [KubeCon + Cloud Native Con North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (San Diego, CA)
+- Dec 2-6: [AWS re:Invent](https://reinvent.awsevents.com/) (Las Vegas, NV)
 
 ## Europe
 
@@ -73,6 +79,7 @@
 
 ### United Kingdom
 
+- Jun 25-27: [Devops Enterprise Summit](https://events.itrevolution.com/eur/)
 - Jan 16-17: [Oracle OpenWorld Europe: London](https://www.oracle.com/uk/openworld/)
 - Jan 30: [ServerlessDays Cardiff](https://cardiff.serverlessdays.io/)
 - Feb 26-27: [Microsoft Ignite on tour: London](https://www.microsoft.com/en-gb/ignite-the-tour/london)
