@@ -121,6 +121,11 @@
 ## Australia
 
 - Feb 13-14: [Microsoft Ignite on tour: Sydney](https://www.microsoft.com/en-au/ignite-the-tour/sydney)
+- July 6: Melbourne [Serverless: The Good, The Bad, The ugly](https://www.eventbrite.com.au/myevent?eid=59371134662)
+- July 13: Sydney [Serverless: The Good, The Bad, The ugly](https://www.eventbrite.com.au/myevent?eid=59152736427)
+
+## New Zealand
+- August 3: Auckland [Serverless: The Good, The Bad, The ugly](https://www.eventbrite.com.au/myevent?eid=59371181803)
 
 ## Africa
 
